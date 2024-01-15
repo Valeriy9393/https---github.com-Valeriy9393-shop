@@ -47,4 +47,4 @@ export default function Header(props) {
       <div className="presentation"></div>
     </header>
   );
-};
+}
