@@ -35,6 +35,6 @@ export class Categories extends Component {
       </div>
     );
   }
-}
+};
 
 export default Categories
